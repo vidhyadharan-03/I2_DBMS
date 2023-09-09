@@ -26,7 +26,8 @@ RENAME: This is used to rename an object existing in the database.
         create table studentt(rollno int,Name varchar(20),age int,address varchar(40),phoneno int);
 ~~~
 ### OUTPUT:
-![create table](https://github.com/vidhyadharan-03/I2_DBMS/assets/114286357/3c07be3f-b633-48f1-8cce-327883516ae3)
+![create table 2;](https://github.com/vidhyadharan-03/I2_DBMS/assets/114286357/21a274bd-60da-4bd8-aebb-08bcb6291816)
+
 
 ### 2) Change the above student table by adding another attribute department
 
@@ -36,7 +37,7 @@ RENAME: This is used to rename an object existing in the database.
  ADD Department varchar(30);
 ~~~
 ### OUTPUT:
-![Alter add table](https://github.com/vidhyadharan-03/I2_DBMS/assets/114286357/16f00625-f029-48a8-a885-712561e57c94)
+![Add alter](https://github.com/vidhyadharan-03/I2_DBMS/assets/114286357/0e62d5c9-1f4a-4bab-9965-e3a4d9f3296e)
 
 ### 3) Drop the student table
  
