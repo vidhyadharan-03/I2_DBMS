@@ -66,3 +66,6 @@ ALTER TABLE studentt RENAME TO mystudent;
 ~~~~
 ### OUTPUT:
 ![Rename](https://github.com/vidhyadharan-03/I2_DBMS/assets/114286357/93d9392d-34b8-4b14-a661-72469fa29db9)
+
+## RESULT :
+To create a student database and execute DDL queries using SQL has successfully implemented.
